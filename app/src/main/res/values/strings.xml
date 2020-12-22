@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bottom-sheet-fragment</string>
+    <string name="btn_name">Click to Open Bottom Sheet</string>
+    <string name="my_fragment">This is bottom sheet Fragment</string>
+</resources>
